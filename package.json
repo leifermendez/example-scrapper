@@ -12,8 +12,9 @@
   "dependencies": {
     "excel4node": "^1.7.2",
     "exceljs": "^4.2.0",
-    "puppeteer": "^7.0.4",
-    "puppeteer-core": "^7.0.1",
+    "puppeteer": "^7.1.0",
+    "puppeteer-extra": "^3.1.17",
+    "puppeteer-extra-plugin-recaptcha": "^3.3.3",
     "random-useragent": "^0.5.0"
   },
   "devDependencies": {},
